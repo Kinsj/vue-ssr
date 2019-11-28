@@ -1,0 +1,26 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "description": "todo-list vue ssr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SykoKin/vue-ssr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SykoKin/vue-ssr/issues"
+  },
+  "homepage": "https://github.com/SykoKin/vue-ssr#readme",
+  "dependencies": {
+    "css-loader": "^3.2.0",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.2",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.41.2"
+  }
+}
